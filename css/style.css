@@ -9,7 +9,6 @@ body {
 
 .h1 {
     font-size: 46px;
-    font-weight: 900;
 }
 
 .text-orange {
@@ -26,6 +25,15 @@ body {
     padding: 10px 40px;
     background: #F53855;
     border-radius: 40px;
+    font-weight: bold;
+}
+
+.btn-btn-lg {
+    color: white;
+    border: none;
+    padding: 20px 70px;
+    background: #F53855;
+    border-radius: 10px;
     font-weight: bold;
 }
 
@@ -50,5 +58,5 @@ body {
 }
 
 .rounded-4 {
-    border-radius: 20px;
+    border-radius: 15px;
 }
