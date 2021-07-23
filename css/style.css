@@ -1,0 +1,54 @@
+/*===================
+    1.COMMON CSS
+ ==================== */
+
+body {
+    font-family: 'Rubik', sans-serif !important;
+    background: #F6F6F6;
+}
+
+.h1 {
+    font-size: 46px;
+    font-weight: 900;
+}
+
+.text-orange {
+    color: #F53855 !important;
+}
+
+.bg-orange {
+    background: #F53855;
+}
+
+.btn-btn {
+    color: white;
+    border: none;
+    padding: 10px 40px;
+    background: #F53855;
+    border-radius: 40px;
+    font-weight: bold;
+}
+
+.btn-btn-outline-orange {
+    color: #F53855;
+    border: 1px solid #F53855;
+    padding: 10px 50px;
+    background: none;
+    border-radius: 40px;
+    font-weight: bold;
+}
+
+.btn-btn-outline-orange:hover {
+    color: white;
+    background: #F53855;
+}
+
+.arrow {
+    width: 100px;
+    height: 3px;
+    background: black;
+}
+
+.rounded-4 {
+    border-radius: 20px;
+}
